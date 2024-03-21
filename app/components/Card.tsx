@@ -8,7 +8,6 @@ interface HtmlContent {
 }
 interface MainContent {
   fields?: ContentData;
-  // fields2?: contentForImage;
 }
 interface ContentData {
   heading?: string;
